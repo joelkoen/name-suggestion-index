@@ -1191,17 +1191,13 @@
     },
     {
       "displayName": "Senco Gold & Diamonds",
-      "id": "Senco Gold & Diamonds",
-      "locationSet": {
-        "include": [
-          "in"
-        ]
-      },
+      "id": "sencogoldanddiamonds-96eeb4",
+      "locationSet": {"include": ["in"]},
       "tags": {
-        "shop": "jewelry",
-        "name": "Senco Gold & Diamonds",
         "brand": "Senco Gold & Diamonds",
-        "brand:wikidata": "Q131845264"
+        "brand:wikidata": "Q131845264",
+        "name": "Senco Gold & Diamonds",
+        "shop": "jewelry"
       }
     },
     {
